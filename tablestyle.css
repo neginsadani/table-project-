@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+}
+th,
+td {
+  padding: 5px;
+}
+.Hours {
+  background-color: rgb(241, 241, 108);
+  text-align: center;
+  font-size: 30px;
+}
+.timetable {
+  background-color: rgba(194, 194, 194, 0.965);
+}
+th {
+  background-color: rgb(119, 205, 222);
+}
